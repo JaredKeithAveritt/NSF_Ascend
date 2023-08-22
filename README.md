@@ -1,4 +1,4 @@
-Table 1. Recipients for the 
+Table 1. Recipients for the January 06, 2023 cohort.
 | **Title** | **DMR Start Date** | **Award Amount** | **Principal Investigator** | **Award Number** | **NSF Organization** |
 | --- | --- | --- | --- | --- | --- |
 | Selective Electrogeneration of Ammonia from Nitrate - establishing Control of Bimetallic Electrocatalysts Through Interfacial Chemical Design | 08/01/2023 | $200,000.00 | Kenneth Flores | [2316072](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2316525) | CHE |
@@ -31,9 +31,21 @@ Table 1. Recipients for the
 | Radiation Behavior of Complexion Containing Nanocrystalline Metals | 07/01/2023 | $200,000.00 | William Cunningham | [2316692](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2316692) | DMR |
 | Cyclodextrin-Poly(ethylene glycol)-Based Dynamic Covalent Networks | 08/15/2023 | $300,000.00 | Emmanuel Nsengiyumva | [2316707](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2316707) | DMR |
 
+Table 2. List of divisions and recipients for January 06, 2023 cohort.
+| Division                      | Number of Recipients | Total Award Amount |
+|------------------------------|----------------------|--------------------|
+| Astronomical Sciences (AST)   | 2                    | $400,000.00        |
+| Chemistry (CHE)               | 9                    | $2,300,000.00      |
+| Materials Research (DMR)      | 7                    | $1,600,000.00      |
+| Mathematical Sciences (DMS)   | 5                    | $1,000,000.00      |
+| Physics (PHY)                 | 6                    | $1,600,000.00      |
+| **All**                      | **29**               | **$5,900,000.00**  |
+
+Table 3. List of solicitations for years 2021 - 2023
 | **NSF Number** | **Deadline** | **Start Date** | **Link** |
 | --- | --- | --- | --- |
 | NSF 21-573 | June 15, 2021 | - | [Link](https://www.nsf.gov/pubs/2021/nsf21573/nsf21573.htm) |
 | NSF 22-501 | January 06, 2022 | On or after Oct. 1, 2022 | [Link](https://www.nsf.gov/pubs/2022/nsf22501/nsf22501.htm) |
 | NSF 23-501 | January 25, 2023 | On or after September 1, 2023 | [Link](https://www.nsf.gov/pubs/2023/nsf23501/nsf23501.htm) |
 | NSF 23-501 | October 18, 2023 | On or after September 1, 2024 | [Link](https://www.nsf.gov/pubs/2023/nsf23501/nsf23501.htm) |
+
