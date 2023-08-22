@@ -42,10 +42,10 @@ Table 2. List of divisions and recipients for January 06, 2023 cohort.
 | **All**                      | **29**               | **$5,900,000.00**  |
 
 Table 3. List of solicitations for years 2021 - 2023
-| **NSF Number** | **Deadline** | **Start Date** | **Link** |
-| --- | --- | --- | --- |
-| NSF 21-573 | June 15, 2021 | - | [Link](https://www.nsf.gov/pubs/2021/nsf21573/nsf21573.htm) |
-| NSF 22-501 | January 06, 2022 | On or after Oct. 1, 2022 | [Link](https://www.nsf.gov/pubs/2022/nsf22501/nsf22501.htm) |
-| NSF 23-501 | January 25, 2023 | On or after September 1, 2023 | [Link](https://www.nsf.gov/pubs/2023/nsf23501/nsf23501.htm) |
-| NSF 23-501 | October 18, 2023 | On or after September 1, 2024 | [Link](https://www.nsf.gov/pubs/2023/nsf23501/nsf23501.htm) |
+| **NSF Number** | **Deadline** | **Start Date Deadline** | **Link** | **Estimated Number of Awards** | **Anticipated Funding Amount** |
+| --- | --- | --- | --- |--- | --- |
+| NSF 21-573 | June 15, 2021 | - | [Link](https://www.nsf.gov/pubs/2021/nsf21573/nsf21573.htm) | 40 to 50 | $9,000,000 to $10,000,000 | 
+| NSF 22-501 | January 06, 2022 | On or after Oct. 1, 2022 | [Link](https://www.nsf.gov/pubs/2022/nsf22501/nsf22501.htm) | 40 to 50 | $8,000,000 to $10,000,000 | 
+| NSF 23-501 | January 25, 2023 | On or after September 1, 2023 | [Link](https://www.nsf.gov/pubs/2023/nsf23501/nsf23501.htm) | 20 to 50 | $6,000,000 to $10,000,000 | 
+| NSF 23-501 | October 18, 2023 | On or after September 1, 2024 | [Link](https://www.nsf.gov/pubs/2023/nsf23501/nsf23501.htm) | 20 to 50 | $6,000,000 to $10,000,000 | 
 
